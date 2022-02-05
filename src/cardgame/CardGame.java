@@ -60,6 +60,7 @@ public class CardGame {
         String response = match ? "Right guess": "No match";
         
         System.out.println(response);
+        System.out.println("Hello! I am Matthew Guastelluccia and I am a student at Sheridan College");
     }
     
 }
